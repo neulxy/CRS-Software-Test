@@ -16,7 +16,7 @@ Summary:
 8.To beautify the layout, I used the css styles provided by Bootstrap.
 9.More functions, like searching the description, could be easily implemented if needed.
 
-                         By Xiangyu Liu (Andy).               26/01/2020
+              By Xiangyu Liu (Andy).       neulxy@gmail.com        26/01/2020
 *****************************************************************************************************************/
 
 
